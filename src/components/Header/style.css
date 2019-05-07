@@ -1,0 +1,34 @@
+.header{
+	background-color: #ccc;
+	margin: auto;
+	margin: 30px 150px;
+	border: 5px solid #333;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	padding: 90px 0 20px 0; 
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	padding-bottom: 90px;
+}
+
+.wrapper {
+	padding-top: 50px;
+	background: #ECEFF1;
+	border-radius: 10px;
+	height: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 20px;
+	justify-content: space-around;
+	align-content: flex-start;
+	overflow: auto;
+	margin: 0 150px;
+  }
+  
