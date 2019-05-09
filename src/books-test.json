@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "image": "example.jpg",
+        "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero doloremque quidem sapiente quo laudantium eligendi nulla voluptatem ipsam vitae autem repellat, nobis quasi mollitia excepturi, fugit praesentium reprehenderit deserunt! Tempora ipsam laboriosam molestiae vero? Ducimus cum praesentium beatae vel voluptatibus similique perspiciatis iusto obcaecati cupiditate fuga ut iste voluptatum, fugiat nisi eum error earum excepturi. Eos, porro? Nobis nulla esse quos magni modi inventore perferendis sequi dolorum laudantium dignissimos non ad provident, officia voluptas, reiciendis eaque quas voluptatibus obcaecati deserunt! Dolorum commodi necessitatibus rem temporibus ipsa quaerat sint nihil voluptatibus eos magni optio natus, aperiam dolor illo, voluptates repellat officiis cupiditate maxime! Pariatur maiores nam, maxime vitae provident enim. Illum nesciunt praesentium ex dolor adipisci? Eligendi necessitatibus saepe explicabo inventore reiciendis amet repudiandae corrupti. Illo iste, sunt voluptatibus beatae sint aspernatur nobis dolorum, nostrum voluptas tempora dolores? Dolor ut sunt molestias, corporis quidem distinctio beatae rerum harum voluptas doloribus facere."
+    },
+    {
+        "id": 2,
+        "title": "Javascript & jQuery",
+        "author": "Jon Duckett",
+        "image": "example.jpg",
+        "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero doloremque quidem sapiente quo laudantium eligendi nulla voluptatem ipsam vitae autem repellat, nobis quasi mollitia excepturi, fugit praesentium reprehenderit deserunt! Tempora ipsam laboriosam molestiae vero? Ducimus cum praesentium beatae vel voluptatibus similique perspiciatis iusto obcaecati cupiditate fuga ut iste voluptatum, fugiat nisi eum error earum excepturi. Eos, porro? Nobis nulla esse quos magni modi inventore perferendis sequi dolorum laudantium dignissimos non ad provident, officia voluptas, reiciendis eaque quas voluptatibus obcaecati deserunt! Dolorum commodi necessitatibus rem temporibus ipsa quaerat sint nihil voluptatibus eos magni optio natus, aperiam dolor illo, voluptates repellat officiis cupiditate maxime! Pariatur maiores nam, maxime vitae provident enim. Illum nesciunt praesentium ex dolor adipisci? Eligendi necessitatibus saepe explicabo inventore reiciendis amet repudiandae corrupti. Illo iste, sunt voluptatibus beatae sint aspernatur nobis dolorum, nostrum voluptas tempora dolores? Dolor ut sunt molestias, corporis quidem distinctio beatae rerum harum voluptas doloribus facere."
+    },
+    {
+        "id": 3,
+        "title": "HTML & CSS",
+        "author": "Jon Duckett",
+        "image": "example.jpg",
+        "summary": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero doloremque quidem sapiente quo laudantium eligendi nulla voluptatem ipsam vitae autem repellat, nobis quasi mollitia excepturi, fugit praesentium reprehenderit deserunt! Tempora ipsam laboriosam molestiae vero? Ducimus cum praesentium beatae vel voluptatibus similique perspiciatis iusto obcaecati cupiditate fuga ut iste voluptatum, fugiat nisi eum error earum excepturi. Eos, porro? Nobis nulla esse quos magni modi inventore perferendis sequi dolorum laudantium dignissimos non ad provident, officia voluptas, reiciendis eaque quas voluptatibus obcaecati deserunt! Dolorum commodi necessitatibus rem temporibus ipsa quaerat sint nihil voluptatibus eos magni optio natus, aperiam dolor illo, voluptates repellat officiis cupiditate maxime! Pariatur maiores nam, maxime vitae provident enim. Illum nesciunt praesentium ex dolor adipisci? Eligendi necessitatibus saepe explicabo inventore reiciendis amet repudiandae corrupti. Illo iste, sunt voluptatibus beatae sint aspernatur nobis dolorum, nostrum voluptas tempora dolores? Dolor ut sunt molestias, corporis quidem distinctio beatae rerum harum voluptas doloribus facere."
+    }
+]

@@ -1,0 +1,45 @@
+#card {
+  background: #fff;
+  border-radius: 2px;
+  height: auto;
+  margin: 1rem;
+  width: 100%;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  padding: 25px;
+}
+
+#title {
+  font-size: 3vh;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+#author {
+  margin: 15px 5px 35px;
+  font-size: 1.9vh;
+
+}
+
+#img-container {
+  float: left;
+  width: 250px;
+  height: auto;
+  background: #c5c5c5;
+}
+
+#img-container > img {
+  width: 250px;
+  height: auto;
+  height: auto;
+  background: #c5c5c5;
+}
+
+#summary-container {
+  float: left;
+  overflow: hidden;
+  height: auto;
+  width: 81%;
+  margin-left: 3vh;
+  font-size: 2vh;
+
+}
